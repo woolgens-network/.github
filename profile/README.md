@@ -1,5 +1,4 @@
 # Hello, we are Woolgens!
-![header](https://raw.githubusercontent.com/thisisvillegas/BigCommerceDevsCommunityImages/main/SpaceMan.png)
 
 You have found our internal GitHub repository. Sadly we cannot show you all of our projects, as much of what we write is classified and cannot be released to the public. However if you want to join us you are welcome to send us your developer application. You can find more information about this in our [guides](https://github.com/woolgens-network/guides/tree/master/application).
 
