@@ -13,6 +13,6 @@ If you want to check our our style guide you can find it [here](https://github.c
     <img src="https://img.shields.io/badge/Discord-woolgens-blue?style=for-the-badge&logo=Discord">
   </a>
   <a target="_blank" href="https://github.com/woolgens-network">
-    <img src="https://img.shields.io/badge/Discord-woolgens_network-lightgray?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/Github-woolgens_network-lightgray?style=for-the-badge&logo=github">
   </a>
 </p>
